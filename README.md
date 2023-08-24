@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+# Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![DevFinder Logo Gif](https://github.com/Beqa-Beqa/web-todo-4/blob/master/devfinder.gif)
 
-## Available Scripts
+<p>
+  Welcome to "DevFinder". The project is built by "React", "TS", "CSS" and one of API library's Axios.
+  The intent of project is to search for the developers and find them by their names.  
+</p>
 
-In the project directory, you can run:
+[Visit Live Page](https://beqa-beqa.github.io/web-todo-4/)
+<br/>
 
-### `npm start`
+[Visit Figma Design](https://www.figma.com/file/xIHLusLUEd92bUacWp4c6T/github-user-search-app?type=design&node-id=0-1&mode=design&t=Bq1k0pexvml21N3e-0)
+<hr/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# About project
+<p>
+  The project consists of only one page with responsive design and optional light or dark theme mode.
+  The page has search field that will allow you to look for a desired user - Mostly there are test users and not the real ones.
+</p>
+<em>Users data is retrieved from github api</em>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Test user list to look up to
+<ul>
+  <li>mojombo</li> 
+  <li>defunkt</li>
+  <li>pjhyett</li>
+  <li>wycats</li>
+  <li>ezmobius</li>
+  <li>evanphx</li>
+  <li>vanpelt</li>
+  <li>wayneeseguin</li>
+  <li>brynary</li>
+  <li>kevinclark</li>
+  <li>technoweenie</li>
+  <li>macournoyer</li>
+</ul>
+<em>You can see console log for more users</em>
+<hr/>
 
-### `npm test`
+# Initializing code on local machine
+<h4>In terminal run the following</h4>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+git clone git@github.com:Beqa-Beqa/web-todo-4.git #clone the github repository on your local machine
 
-### `npm run build`
+#after successfull clone
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm install #installs required dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm start #runs the react app
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<em>Make sure node is installed</em>
+<hr/>
 
-### `npm run eject`
+![Static Badge](https://img.shields.io/badge/Code%20Size-702kb-purple)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# License
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+MIT License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Copyright (c) [2023] [Beka Aladashvili]
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-## Learn More
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
