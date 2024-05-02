@@ -1,13 +1,13 @@
 # Introduction
 
-![DevFinder Logo Gif](https://github.com/Beqa-Beqa/web-todo-4/blob/master/devfinder.gif)
+![DevFinder Logo Gif](https://github.com/Beqa-Beqa/Dev-Finder/blob/master/devfinder.gif)
 
 <p>
   Welcome to "DevFinder". The project is built by "React", "TS", "CSS" and one of API library's Axios.
   The intent of project is to search for the developers and find them by their names.  
 </p>
 
-[Visit Live Page](https://beqa-beqa.github.io/web-todo-4/)
+[Visit Live Page](https://beqa-beqa.github.io/Dev-Finder/)
 <br/>
 
 [Visit Figma Design](https://www.figma.com/file/xIHLusLUEd92bUacWp4c6T/github-user-search-app?type=design&node-id=0-1&mode=design&t=Bq1k0pexvml21N3e-0)
